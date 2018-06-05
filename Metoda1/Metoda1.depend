@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1528043860 source:c:\users\lenovo\desktop\cod c ad\metoda1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528197967 source:f:\sda\metoda1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528197903 f:\sda\metoda1\queen.h
+
+1528197968 source:f:\sda\metoda1\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528194367 source:c:\users\lenovo\desktop\modular\metoda1\metoda1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528194303 c:\users\lenovo\desktop\modular\metoda1\metoda1\queen.h
+
+1528194368 source:c:\users\lenovo\desktop\modular\metoda1\metoda1\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528194367 source:c:\users\lenovo\desktop\proiect ad\modular\metoda1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528194303 c:\users\lenovo\desktop\proiect ad\modular\metoda1\queen.h
+
+1528194368 source:c:\users\lenovo\desktop\proiect ad\modular\metoda1\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+

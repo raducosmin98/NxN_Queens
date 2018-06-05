@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1528197155 source:f:\sda\metoda2\metoda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528197092 f:\sda\metoda2\metoda2\queen.h
+
+1528197147 source:f:\sda\metoda2\metoda2\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193555 source:c:\users\lenovo\desktop\modular\metoda2\metoda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193492 c:\users\lenovo\desktop\modular\metoda2\metoda2\queen.h
+
+1528193547 source:c:\users\lenovo\desktop\modular\metoda2\metoda2\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193555 source:c:\users\lenovo\desktop\sesiune\proiect ad\modular\metoda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193492 c:\users\lenovo\desktop\sesiune\proiect ad\modular\metoda2\queen.h
+
+1528193547 source:c:\users\lenovo\desktop\sesiune\proiect ad\modular\metoda2\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193555 source:c:\users\lenovo\desktop\proiect ad\modular\metoda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
+1528193492 c:\users\lenovo\desktop\proiect ad\modular\metoda2\queen.h
+
+1528193547 source:c:\users\lenovo\desktop\proiect ad\modular\metoda2\queen.c
+	<stdio.h>
+	<stdlib.h>
+	"queen.h"
+
